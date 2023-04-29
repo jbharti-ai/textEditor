@@ -6,7 +6,10 @@ import java.net.*;
 
 class TextEditor implements ActionListener
 {
-	Jframe f;
+	
+	
+	
+	
 	JMenuBar menuBar;
 	JMenu file;
 	JMenu edit;
